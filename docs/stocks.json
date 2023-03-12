@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "symbol": "RMCF",
+    "name": "Rocky Mountain Chocolate Factory, Inc.",
+    "sector": "Consumer Non-Durables",
+    "market": "NASDAQ",
+    "cap": "$68.38M"
+  },
+  {
+    "id": 2,
+    "symbol": "ARW",
+    "name": "Arrow Electronics, Inc.",
+    "sector": "Consumer Non-Durables",
+    "market": "NYSE",
+    "cap": "$6.85B"
+  },
+  {
+    "id": 3,
+    "symbol": "BATRA",
+    "name": "Liberty Media Corporation",
+    "sector": "Consumer Services",
+    "market": "NASDAQ",
+    "cap": "n/a"
+  },
+  {
+    "id": 4,
+    "symbol": "CSLT",
+    "name": "Castlight Health, inc.",
+    "sector": "Technology",
+    "market": "NYSE",
+    "cap": "$509.01M"
+  },
+  {
+    "id": 5,
+    "symbol": "AI",
+    "name": "Arlington Asset Investment Corp",
+    "sector": "Finance",
+    "market": "NYSE",
+    "cap": "$352.64M"
+  },
+  {
+    "id": 6,
+    "symbol": "KONE",
+    "name": "Kingtone Wirelessinfo Solution Holding Ltd",
+    "sector": "Technology",
+    "market": "NASDAQ",
+    "cap": "$5.16M"
+  },
+  {
+    "id": 7,
+    "symbol": "TST",
+    "name": "TheStreet, Inc.",
+    "sector": "Consumer Services",
+    "market": "NASDAQ",
+    "cap": "$30.31M"
+  },
+  {
+    "id": 8,
+    "symbol": "QLYS",
+    "name": "Qualys, Inc.",
+    "sector": "Technology",
+    "market": "NASDAQ",
+    "cap": "$1.54B"
+  },
+  {
+    "id": 9,
+    "symbol": "ROKA",
+    "name": "Roka Bioscience, Inc.",
+    "sector": "Capital Goods",
+    "market": "NASDAQ",
+    "cap": "$13.52M"
+  },
+  {
+    "id": 10,
+    "symbol": "JKHY",
+    "name": "Jack Henry & Associates, Inc.",
+    "sector": "Technology",
+    "market": "NASDAQ",
+    "cap": "$8.14B"
+  },
+  {
+    "id": 11,
+    "symbol": "GLMD",
+    "name": "Galmed Pharmaceuticals Ltd.",
+    "sector": "Health Care",
+    "market": "NASDAQ",
+    "cap": "$84.21M"
+  },
+  {
+    "id": 12,
+    "symbol": "MTSC",
+    "name": "MTS Systems Corporation",
+    "sector": "Capital Goods",
+    "market": "NASDAQ",
+    "cap": "$896.52M"
+  },
+  {
+    "id": 13,
+    "symbol": "CCN",
+    "name": "CardConnect Corp.",
+    "sector": "Finance",
+    "market": "NASDAQ",
+    "cap": "$472.08M"
+  },
+  {
+    "id": 14,
+    "symbol": "CTB",
+    "name": "Cooper Tire & Rubber Company",
+    "sector": "Consumer Durables",
+    "market": "NYSE",
+    "cap": "$1.9B"
+  },
+  {
+    "id": 15,
+    "symbol": "ETG",
+    "name": "Eaton Vance Tax-Advantaged Global Dividend Income Fund",
+    "sector": "n/a",
+    "market": "NYSE",
+    "cap": "$1.29B"
+  },
+  {
+    "id": 16,
+    "symbol": "PAM",
+    "name": "Pampa Energia S.A.",
+    "sector": "Public Utilities",
+    "market": "NYSE",
+    "cap": "$4.61B"
+  },
+  {
+    "id": 17,
+    "symbol": "LMNR",
+    "name": "Limoneira Co",
+    "sector": "Consumer Non-Durables",
+    "market": "NASDAQ",
+    "cap": "$310.86M"
+  },
+  {
+    "id": 18,
+    "symbol": "IRS",
+    "name": "IRSA Inversiones Y Representaciones S.A.",
+    "sector": "Consumer Services",
+    "market": "NYSE",
+    "cap": "$1.38B"
+  },
+  {
+    "id": 19,
+    "symbol": "SIMO",
+    "name": "Silicon Motion Technology Corporation",
+    "sector": "Technology",
+    "market": "NASDAQ",
+    "cap": "$1.82B"
+  },
+  {
+    "id": 20,
+    "symbol": "LHO^J",
+    "name": "LaSalle Hotel Properties",
+    "sector": "n/a",
+    "market": "NYSE",
+    "cap": "n/a"
+  },
+  {
+    "id": 21,
+    "symbol": "BORN",
+    "name": "China New Borun Corporation",
+    "sector": "Consumer Non-Durables",
+    "market": "NYSE",
+    "cap": "$34.21M"
+  },
+  {
+    "id": 22,
+    "symbol": "OC",
+    "name": "Owens Corning Inc",
+    "sector": "Capital Goods",
+    "market": "NYSE",
+    "cap": "$7.18B"
+  },
+  {
+    "id": 23,
+    "symbol": "KWR",
+    "name": "Quaker Chemical Corporation",
+    "sector": "Basic Industries",
+    "market": "NYSE",
+    "cap": "$1.92B"
+  },
+  {
+    "id": 24,
+    "symbol": "AGLE",
+    "name": "Aeglea BioTherapeutics, Inc.",
+    "sector": "Health Care",
+    "market": "NASDAQ",
+    "cap": "$47.08M"
+  },
+  {
+    "id": 25,
+    "symbol": "PSA^Z",
+    "name": "Public Storage",
+    "sector": "n/a",
+    "market": "NYSE",
+    "cap": "n/a"
+  },
+  {
+    "id": 26,
+    "symbol": "NOK",
+    "name": "Nokia Corporation",
+    "sector": "Technology",
+    "market": "NYSE",
+    "cap": "$37.35B"
+  },
+  {
+    "id": 27,
+    "symbol": "LYV",
+    "name": "Live Nation Entertainment, Inc.",
+    "sector": "Consumer Services",
+    "market": "NYSE",
+    "cap": "$7.49B"
+  },
+  {
+    "id": 28,
+    "symbol": "RNVAZ",
+    "name": "Rennova Health, Inc.",
+    "sector": "Health Care",
+    "market": "NASDAQ",
+    "cap": "n/a"
+  },
+  {
+    "id": 29,
+    "symbol": "MBI",
+    "name": "MBIA, Inc.",
+    "sector": "Finance",
+    "market": "NYSE",
+    "cap": "$1.14B"
+  },
+  {
+    "id": 30,
+    "symbol": "XONE",
+    "name": "The ExOne Company",
+    "sector": "Capital Goods",
+    "market": "NASDAQ",
+    "cap": "$204.83M"
+  },
+  {
+    "id": 31,
+    "symbol": "XPO",
+    "name": "XPO Logistics, Inc.",
+    "sector": "Consumer Services",
+    "market": "NYSE",
+    "cap": "$6.87B"
+  },
+  {
+    "id": 32,
+    "symbol": "FTI",
+    "name": "TechnipFMC plc",
+    "sector": "Energy",
+    "market": "NYSE",
+    "cap": "$12.87B"
+  },
+  {
+    "id": 33,
+    "symbol": "SBRA",
+    "name": "Sabra Healthcare REIT, Inc.",
+    "sector": "Consumer Services",
+    "market": "NASDAQ",
+    "cap": "$1.55B"
+  },
+  {
+    "id": 34,
+    "symbol": "PSC",
+    "name": "Principal U.S. Small Cap Index ETF",
+    "sector": "n/a",
+    "market": "NASDAQ",
+    "cap": "$277.12M"
+  },
+  {
+    "id": 35,
+    "symbol": "CCJ",
+    "name": "Cameco Corporation",
+    "sector": "Basic Industries",
+    "market": "NYSE",
+    "cap": "$3.63B"
+  },
+  {
+    "id": 36,
+    "symbol": "LEXEB",
+    "name": "Liberty Expedia Holdings, Inc.",
+    "sector": "Consumer Services",
+    "market": "NASDAQ",
+    "cap": "$3.06B"
+  },
+  {
+    "id": 37,
+    "symbol": "TU",
+    "name": "TELUS Corporation",
+    "sector": "Public Utilities",
+    "market": "NYSE",
+    "cap": "$20.42B"
+  },
+  {
+    "id": 38,
+    "symbol": "QADB",
+    "name": "QAD Inc.",
+    "sector": "Technology",
+    "market": "NASDAQ",
+    "cap": "$498.57M"
+  },
+  {
+    "id": 39,
+    "symbol": "PCF",
+    "name": "Putnam High Income Bond Fund",
+    "sector": "n/a",
+    "market": "NYSE",
+    "cap": "$114.59M"
+  },
+  {
+    "id": 40,
+    "symbol": "GFED",
+    "name": "Guaranty Federal Bancshares, Inc.",
+    "sector": "Finance",
+    "market": "NASDAQ",
+    "cap": "$84.27M"
+  },
+  {
+    "id": 41,
+    "symbol": "XTLY",
+    "name": "Xactly Corporation",
+    "sector": "Technology",
+    "market": "NYSE",
+    "cap": "$499.79M"
+  },
+  {
+    "id": 42,
+    "symbol": "OCUL",
+    "name": "Ocular Therapeutix, Inc.",
+    "sector": "Health Care",
+    "market": "NASDAQ",
+    "cap": "$294.93M"
+  },
+  {
+    "id": 43,
+    "symbol": "DCT",
+    "name": "DCT Industrial Trust Inc",
+    "sector": "Consumer Services",
+    "market": "NYSE",
+    "cap": "$5.04B"
+  },
+  {
+    "id": 44,
+    "symbol": "SHO^F",
+    "name": "Sunstone Hotel Investors, Inc.",
+    "sector": "n/a",
+    "market": "NYSE",
+    "cap": "n/a"
+  },
+  {
+    "id": 45,
+    "symbol": "BIO.B",
+    "name": "Bio-Rad Laboratories, Inc.",
+    "sector": "n/a",
+    "market": "NYSE",
+    "cap": "n/a"
+  },
+  {
+    "id": 46,
+    "symbol": "OTTR",
+    "name": "Otter Tail Corporation",
+    "sector": "Public Utilities",
+    "market": "NASDAQ",
+    "cap": "$1.64B"
+  },
+  {
+    "id": 47,
+    "symbol": "PRCP",
+    "name": "Perceptron, Inc.",
+    "sector": "Capital Goods",
+    "market": "NASDAQ",
+    "cap": "$68.49M"
+  },
+  {
+    "id": 48,
+    "symbol": "ETSY",
+    "name": "Etsy, Inc.",
+    "sector": "Miscellaneous",
+    "market": "NASDAQ",
+    "cap": "$1.59B"
+  },
+  {
+    "id": 49,
+    "symbol": "EIX",
+    "name": "Edison International",
+    "sector": "Public Utilities",
+    "market": "NYSE",
+    "cap": "$26.78B"
+  },
+  {
+    "id": 50,
+    "symbol": "ENH^C",
+    "name": "Endurance Specialty Holdings Ltd",
+    "sector": "n/a",
+    "market": "NYSE",
+    "cap": "n/a"
+  },
+  {
+    "id": 51,
+    "symbol": "CRESY",
+    "name": "Cresud S.A.C.I.F. y A.",
+    "sector": "Finance",
+    "market": "NASDAQ",
+    "cap": "$951.53M"
+  },
+  {
+    "id": 52,
+    "symbol": "SCYX",
+    "name": "SCYNEXIS, Inc.",
+    "sector": "Health Care",
+    "market": "NASDAQ",
+    "cap": "$42.31M"
+  },
+  {
+    "id": 53,
+    "symbol": "PRSC",
+    "name": "The Providence Service Corporation",
+    "sector": "Consumer Services",
+    "market": "NASDAQ",
+    "cap": "$631.2M"
+  },
+  {
+    "id": 54,
+    "symbol": "LNT",
+    "name": "Alliant Energy Corporation",
+    "sector": "Public Utilities",
+    "market": "NYSE",
+    "cap": "$9.61B"
+  },
+  {
+    "id": 55,
+    "symbol": "ABTX",
+    "name": "Allegiance Bancshares, Inc.",
+    "sector": "Finance",
+    "market": "NASDAQ",
+    "cap": "$514.79M"
+  },
+  {
+    "id": 56,
+    "symbol": "FTHI",
+    "name": "First Trust High Income ETF",
+    "sector": "n/a",
+    "market": "NASDAQ",
+    "cap": "$48.31M"
+  },
+  {
+    "id": 57,
+    "symbol": "BBY",
+    "name": "Best Buy Co., Inc.",
+    "sector": "Consumer Services",
+    "market": "NYSE",
+    "cap": "$16.97B"
+  },
+  {
+    "id": 58,
+    "symbol": "AAME",
+    "name": "Atlantic American Corporation",
+    "sector": "Finance",
+    "market": "NASDAQ",
+    "cap": "$74.51M"
+  },
+  {
+    "id": 59,
+    "symbol": "XIV",
+    "name": "VelocityShares Daily Inverse VIX Short-Term ETN",
+    "sector": "Finance",
+    "market": "NASDAQ",
+    "cap": "$850.59M"
+  },
+  {
+    "id": 60,
+    "symbol": "ICE",
+    "name": "Intercontinental Exchange Inc.",
+    "sector": "Finance",
+    "market": "NYSE",
+    "cap": "$38.23B"
+  },
+  {
+    "id": 61,
+    "symbol": "KBSF",
+    "name": "KBS Fashion Group Limited",
+    "sector": "Consumer Non-Durables",
+    "market": "NASDAQ",
+    "cap": "$4.62M"
+  },
+  {
+    "id": 62,
+    "symbol": "WINS",
+    "name": "Wins Finance Holdings Inc.",
+    "sector": "Finance",
+    "market": "NASDAQ",
+    "cap": "$4.11B"
+  },
+  {
+    "id": 63,
+    "symbol": "FNV",
+    "name": "Franco-Nevada Corporation",
+    "sector": "Basic Industries",
+    "market": "NYSE",
+    "cap": "$12.86B"
+  },
+  {
+    "id": 64,
+    "symbol": "CUBN",
+    "name": "Commerce Union Bancshares, Inc.",
+    "sector": "n/a",
+    "market": "NASDAQ",
+    "cap": "$187.29M"
+  },
+  {
+    "id": 65,
+    "symbol": "MNR^C",
+    "name": "Monmouth Real Estate Investment Corporation",
+    "sector": "n/a",
+    "market": "NYSE",
+    "cap": "n/a"
+  },
+  {
+    "id": 66,
+    "symbol": "BFR",
+    "name": "BBVA Banco Frances S.A.",
+    "sector": "Finance",
+    "market": "NYSE",
+    "cap": "$3.47B"
+  },
+  {
+    "id": 67,
+    "symbol": "CRM",
+    "name": "Salesforce.com Inc",
+    "sector": "Technology",
+    "market": "NYSE",
+    "cap": "$61.25B"
+  },
+  {
+    "id": 68,
+    "symbol": "CBX",
+    "name": "CBX (Listing Market NYSE Networks AE",
+    "sector": "n/a",
+    "market": "NYSE",
+    "cap": "n/a"
+  },
+  {
+    "id": 69,
+    "symbol": "DGICB",
+    "name": "Donegal Group, Inc.",
+    "sector": "Finance",
+    "market": "NASDAQ",
+    "cap": "$395.71M"
+  },
+  {
+    "id": 70,
+    "symbol": "CRM",
+    "name": "Salesforce.com Inc",
+    "sector": "Technology",
+    "market": "NYSE",
+    "cap": "$61.25B"
+  },
+  {
+    "id": 71,
+    "symbol": "ESND",
+    "name": "Essendant Inc.",
+    "sector": "Consumer Services",
+    "market": "NASDAQ",
+    "cap": "$560.24M"
+  },
+  {
+    "id": 72,
+    "symbol": "IKNX",
+    "name": "Ikonics Corporation",
+    "sector": "Miscellaneous",
+    "market": "NASDAQ",
+    "cap": "$16.39M"
+  },
+  {
+    "id": 73,
+    "symbol": "BKT",
+    "name": "BlackRock Income Trust Inc. (The)",
+    "sector": "n/a",
+    "market": "NYSE",
+    "cap": "$402.84M"
+  },
+  {
+    "id": 74,
+    "symbol": "GOOG",
+    "name": "Alphabet Inc.",
+    "sector": "Technology",
+    "market": "NASDAQ",
+    "cap": "$650.09B"
+  },
+  {
+    "id": 75,
+    "symbol": "ASND",
+    "name": "Ascendis Pharma A/S",
+    "sector": "Health Care",
+    "market": "NASDAQ",
+    "cap": "$780.06M"
+  },
+  {
+    "id": 76,
+    "symbol": "TCF",
+    "name": "TCF Financial Corporation",
+    "sector": "Finance",
+    "market": "NYSE",
+    "cap": "$2.72B"
+  },
+  {
+    "id": 77,
+    "symbol": "TTF",
+    "name": "Thai Fund, Inc. (The)",
+    "sector": "n/a",
+    "market": "NYSE",
+    "cap": "$106.14M"
+  },
+  {
+    "id": 78,
+    "symbol": "TICC",
+    "name": "TICC Capital Corp.",
+    "sector": "n/a",
+    "market": "NASDAQ",
+    "cap": "$361.9M"
+  },
+  {
+    "id": 79,
+    "symbol": "CASY",
+    "name": "Caseys General Stores, Inc.",
+    "sector": "Consumer Durables",
+    "market": "NASDAQ",
+    "cap": "$4.23B"
+  },
+  {
+    "id": 80,
+    "symbol": "CXE",
+    "name": "Colonial High Income Municipal Trust",
+    "sector": "n/a",
+    "market": "NYSE",
+    "cap": "$165.71M"
+  },
+  {
+    "id": 81,
+    "symbol": "WNS",
+    "name": "WNS (Holdings) Limited",
+    "sector": "Miscellaneous",
+    "market": "NYSE",
+    "cap": "$1.63B"
+  },
+  {
+    "id": 82,
+    "symbol": "AIR",
+    "name": "AAR Corp.",
+    "sector": "Capital Goods",
+    "market": "NYSE",
+    "cap": "$1.21B"
+  },
+  {
+    "id": 83,
+    "symbol": "JMBA",
+    "name": "Jamba, Inc.",
+    "sector": "Consumer Services",
+    "market": "NASDAQ",
+    "cap": "$107.46M"
+  },
+  {
+    "id": 84,
+    "symbol": "FEMB",
+    "name": "First Trust Emerging Markets Local Currency Bond ETF",
+    "sector": "n/a",
+    "market": "NASDAQ",
+    "cap": "$40.95M"
+  },
+  {
+    "id": 85,
+    "symbol": "AHPA",
+    "name": "Avista Healthcare Public Acquisition Corp.",
+    "sector": "Finance",
+    "market": "NASDAQ",
+    "cap": "$380.14M"
+  },
+  {
+    "id": 86,
+    "symbol": "UBS",
+    "name": "UBS AG",
+    "sector": "Finance",
+    "market": "NYSE",
+    "cap": "$60.28B"
+  },
+  {
+    "id": 87,
+    "symbol": "AGM^C",
+    "name": "Federal Agricultural Mortgage Corporation",
+    "sector": "n/a",
+    "market": "NYSE",
+    "cap": "n/a"
+  },
+  {
+    "id": 88,
+    "symbol": "SDLP",
+    "name": "Seadrill Partners LLC",
+    "sector": "Energy",
+    "market": "NYSE",
+    "cap": "$301.17M"
+  },
+  {
+    "id": 89,
+    "symbol": "AGN^A",
+    "name": "Allergan plc.",
+    "sector": "n/a",
+    "market": "NYSE",
+    "cap": "n/a"
+  },
+  {
+    "id": 90,
+    "symbol": "SPAR",
+    "name": "Spartan Motors, Inc.",
+    "sector": "Capital Goods",
+    "market": "NASDAQ",
+    "cap": "$298.59M"
+  },
+  {
+    "id": 91,
+    "symbol": "DFS",
+    "name": "Discover Financial Services",
+    "sector": "Finance",
+    "market": "NYSE",
+    "cap": "$23.23B"
+  },
+  {
+    "id": 92,
+    "symbol": "MOTAW",
+    "name": "Mota Group, Inc.",
+    "sector": "n/a",
+    "market": "NASDAQ",
+    "cap": "n/a"
+  },
+  {
+    "id": 93,
+    "symbol": "NMY",
+    "name": "Nuveen Maryland Quality Municipal Income Fund",
+    "sector": "n/a",
+    "market": "NYSE",
+    "cap": "$304.81M"
+  },
+  {
+    "id": 94,
+    "symbol": "ATTO",
+    "name": "Atento S.A.",
+    "sector": "Public Utilities",
+    "market": "NYSE",
+    "cap": "$772.35M"
+  },
+  {
+    "id": 95,
+    "symbol": "LEXEA",
+    "name": "Liberty Expedia Holdings, Inc.",
+    "sector": "Consumer Services",
+    "market": "NASDAQ",
+    "cap": "$2.96B"
+  },
+  {
+    "id": 96,
+    "symbol": "GMRE",
+    "name": "Global Medical REIT Inc.",
+    "sector": "Consumer Services",
+    "market": "NYSE",
+    "cap": "$164.26M"
+  },
+  {
+    "id": 97,
+    "symbol": "VREX",
+    "name": "Varex Imaging Corporation",
+    "sector": "Capital Goods",
+    "market": "NASDAQ",
+    "cap": "$1.27B"
+  },
+  {
+    "id": 98,
+    "symbol": "RWLK",
+    "name": "ReWalk Robotics Ltd",
+    "sector": "Health Care",
+    "market": "NASDAQ",
+    "cap": "$20.84M"
+  },
+  {
+    "id": 99,
+    "symbol": "SRUNW",
+    "name": "Silver Run Acquisition Corporation II",
+    "sector": "Finance",
+    "market": "NASDAQ",
+    "cap": "n/a"
+  },
+  {
+    "id": 100,
+    "symbol": "BML^I",
+    "name": "Bank of America Corporation",
+    "sector": "n/a",
+    "market": "NYSE",
+    "cap": "n/a"
+  }
+]
